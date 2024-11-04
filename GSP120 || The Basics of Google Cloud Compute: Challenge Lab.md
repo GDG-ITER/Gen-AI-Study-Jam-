@@ -1,6 +1,6 @@
 # Creating a Virtual Machine || [GSP120]([https://www.cloudskillsboost.google/focuses/3563?parent=catalog](https://www.cloudskillsboost.google/course_templates/754/labs/461563)) ||
 
-## Solution [here](https://youtu.be/3wUSkRhedag)
+## Solution [here](https://youtu.be/FJUsxDrbzLg?si=raKmwvTODJOnyUlF)
 
 ### Run the following Commands For Setup
 
